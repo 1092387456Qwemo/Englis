@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Comforter&family=Great+Vibes&family=Marck+Script&family=Roboto:wght@500&display=swap');
+
+body {
+  background-color: #669900;
+  color: #000;
+  font-size: 16px;
+  font-weight: normal;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.Zagolovoc {
+  text-decoration: normal;
+  background: #C0C0C0;
+  border-radius: 10px;
+  padding: 10px;
+  border: 1000px #fff;
+  margin: 15px;
+  margin-bottom: 200px;
+  box-shadow: 5px 5px 5px 05px;
+  text-align: center;
+}
+
+.Zagolovoc1{
+  text-decoration: normal;
+  border-radius: 10px;
+  padding: 10px;
+  border: 3px #fff;
+  margin: 15px;
+  text-align: center;
+}
+
+.Kartinka {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    border-radius: 59px;
+}
+
+.Abzaz1 {
+  text-decoration: normal;
+  background: #BFACAC;
+  border-radius: 30px;
+  padding: 10px;
+  border: 3px #fff;
+  margin: 15px;
+  text-align: left;
+}
+
+.Abzaz2 {
+  text-decoration: normal;
+  background: #99BB99;
+  border-radius: 30px;
+  padding: 10px;
+  border: 3px #fff;
+  margin: 15px;
+  text-align: left;
+}
+
+.Abzaz3 {
+  text-decoration: normal;
+  background: #FFFF99;
+  border-radius: 30px;
+  padding: 10px;
+  border: 3px #fff;
+  margin: 15px;
+  text-align: left;
+}
+
+.Avtor {
+  text-decoration: normal;
+  border-radius: 30px;
+  font-style: italic;
+  padding: 10px;
+  border: 3px #fff;
+  margin: 15px;
+  text-align: right;
+}
